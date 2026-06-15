@@ -12,7 +12,7 @@
   <img
     width="49%"
     height="180rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomello-dev&stats_format=bytes&layout=compact&lang_coutn=16&theme=merko"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomello-dev&stats_format=bytes&layout=compact&langs_coutn=16&theme=merko"
     alt="Top langs"
   />
 </div>
@@ -32,7 +32,7 @@
   <a href="https://github.com/gustavomello-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="gumello.moura@gmail.com" target="_blank">
+  <a href="mailto:gumello.moura@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
