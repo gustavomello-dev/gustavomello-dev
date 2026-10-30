@@ -6,7 +6,9 @@
   <img
     width="49%"
     height="180rem"
-    src="https://github-readme-stats.vercel.app/api?username=gustavomello-dev&theme=merko&show_icons=true"
+    "
+
+src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavomello-dev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
     alt="GitHub stats"
   />
   <img
