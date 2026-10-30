@@ -14,14 +14,16 @@
   />
    
 
+   <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-gules-two-47.vercel.app/api/top-langs/?username=gustavomello-dev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
   
     
-  <img
-    width="49%"
-    height="180rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomello-dev&stats_format=bytes&layout=compact&langs_coutn=16&theme=merko"
-    alt="Top langs"
-  />
+ 
 </div>
 ## Tecnologias
 
