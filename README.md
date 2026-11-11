@@ -35,7 +35,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css,docker" />
 </p>
 
 ## Contato
