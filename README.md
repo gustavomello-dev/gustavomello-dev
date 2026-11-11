@@ -1,46 +1,36 @@
-## Olá Sou o Gustavo De Mello
+<div align="center">
+  <h2>Olá! Sou o Gustavo De Mello 👋</h2>
+  <h3>🚀 Futuro Desenvolvedor Back-end</h3>
+</div>
 
-<h3>Futuro Desenvolvedor Back-end</h3>
+<br>
 
-<div>
-   
-   
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavomello-dev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    height="180" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavomello-dev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Estatísticas%20do%20GitHub" 
   />
-   
-
-   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-gules-two-47.vercel.app/api/top-langs/?username=gustavomello-dev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats-gules-two-47.vercel.app/api/top-langs/?username=gustavomello-dev&layout=compact&custom_title=Minha%20Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-
-  
-    
- 
 </div>
-</br>
-<div>
+
+<br>
+
+## 💻 Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css,docker,mysql,postgres" alt="Minhas Habilidades" />
 </div>
-</br>
-<div>
-</div>
-## Tecnologias
 
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css,docker" />
-</p>
+## 📫 Contato
 
-## Contato
-
-<p>
+<div align="center">
   <a href="https://linkedin.com/in/gustavo-de-mello-4b3769408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -48,7 +38,6 @@
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:gumello.moura@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</p>
-
+</div>
