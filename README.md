@@ -20,11 +20,40 @@
 
 <br>
 
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no 4º semestre (UniPiaget).
+- 🚀 Foco principal em desenvolvimento **Back-end** (Node.js, Python, Java) e Banco de Dados (PostgreSQL, MySQL).
+- 🧠 Atualmente me aprofundando na arquitetura do **Node.js** (Libuv, Event Loop, fluxos assíncronos) visando certificações na área.
+- 💻 Meu ambiente de desenvolvimento atual: **WSL + VS Code**.
+
+<br>
+
 ## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css,docker,mysql,postgres" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=js,python,php,nodejs,java,react,html,css,mysql,postgres" alt="Minhas Habilidades" />
 </div>
+
+<br>
+
+## ☁️ Infraestrutura & Hospedagem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,vercel,gcp,docker,linux" alt="Infraestrutura" />
+</div>
+
+<br>
+
+## 🏆 Projetos em Destaque
+
+* **[Agendamento de Barbearia (Barber_WJ)](#)**: Plataforma de agendamento multi-tenant.
+  * *Stack:* Node.js, Python (MVC), Supabase (PostgreSQL), Google Calendar API, Docker, Google Cloud Run.
+* **[Escola Conhecimento para Todos](#)**: Modelagem de banco de dados e scripts SQL para um sistema de biblioteca escolar.
+* **[Mini-Apps em React Native](#)**: Componentes mobile construídos com Expo (incluindo calculadoras de IMC e médias escolares).
+* **[Sistema de Controle de Estoque (INFOTECH)](#)**: Estruturação de back-end e gestão ágil de e-commerce de eletrônicos.
+
+*(Nota: Substitua os símbolos `#` nos parênteses pelos links reais dos seus repositórios)*
 
 <br>
 
