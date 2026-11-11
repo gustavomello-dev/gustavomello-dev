@@ -44,17 +44,6 @@
 </div>
 
 <br>
-
-## 🏆 Projetos em Destaque
-
-* **[Agendamento de Barbearia (Barber_WJ)](#)**: Plataforma de agendamento multi-tenant.
-  * *Stack:* Node.js, Python (MVC), Supabase (PostgreSQL), Google Calendar API, Docker, Google Cloud Run.
-* **[Escola Conhecimento para Todos](#)**: Modelagem de banco de dados e scripts SQL para um sistema de biblioteca escolar.
-* **[Mini-Apps em React Native](#)**: Componentes mobile construídos com Expo (incluindo calculadoras de IMC e médias escolares).
-* **[Sistema de Controle de Estoque (INFOTECH)](#)**: Estruturação de back-end e gestão ágil de e-commerce de eletrônicos.
-
-*(Nota: Substitua os símbolos `#` nos parênteses pelos links reais dos seus repositórios)*
-
 <br>
 
 ## 📫 Contato
