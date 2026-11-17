@@ -40,7 +40,7 @@
 ## ☁️ Infraestrutura & Hospedagem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,vercel,gcp,docker,linux" alt="Infraestrutura" />
+  <img src="https://skillicons.dev/icons?i=supabase,vercel,gcp,docker,linux,aws" alt="Infraestrutura" />
 </div>
 
 <br>
